@@ -6,7 +6,7 @@ Solution:
 
 contracts/HelloWorld.sol
 
-Q2 Ballot smart contract (Original) and Improved smart contract.
+Q2. Ballot smart contract (Original) and Improved smart contract.
 Solution:
 
 contracts/Ballot.sol
