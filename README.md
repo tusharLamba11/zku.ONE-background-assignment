@@ -10,5 +10,6 @@ Q2 Ballot smart contract (Original) and Improved smart contract.
 Solution:
 
 contracts/Ballot.sol
+
 contracts/ImprovedBallot.sol
  
